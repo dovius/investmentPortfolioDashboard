@@ -1,0 +1,8 @@
+name,url,xpath,ref
+SWEDBANK ROBUR ACCESS EDGE GLOBAL,https://www.swedbank.lt/private/investor/funds/allFunds/list/details?tunnusnr=SWRAGLC,//*[@id="mainForm"]/section/ui-field[4]/text(),99144764
+RUSIJOS AKCIJŲ FONDAS,https://www.swedbank.lt/private/investor/funds/allFunds/list/details?tunnusnr=HVAFEUR,//*[@id="mainForm"]/section/ui-field[4]/text(),EE3600073318
+ROBUR ACCESS EDGE JAPAN,https://www.swedbank.lt/private/investor/funds/allFunds/list/details?tunnusnr=SWBACJPC,//*[@id="mainForm"]/section/ui-field[4]/text(),EE3600073318
+ROBUR HEALTHCARE,https://www.swedbank.lt/private/investor/funds/allFunds/list/details?tunnusnr=SWRMEDC,//*[@id="mainForm"]/section/ui-field[4]/text(),EE3600073318
+ROBUR TECHNOLOGY,https://www.swedbank.lt/private/investor/funds/allFunds/list/details?tunnusnr=SWRTECC,//*[@id="mainForm"]/section/ui-field[4]/text(),EE3600073318
+BITCOIN,https://bitflyer.com/en-eu/bitcoin-chart,/html/body/div[1]/div/div/div[2]/section[1]/div/div[1]/div/div[1]/text(),EE3600073318,EE3600073318
+ETHERIUM,https://bitflyer.com/en-eu/ethereum-chart,/html/body/div[1]/div/div/div[2]/section[1]/div/div[1]/div/div[1]/text(),EE3600073318,EE3600073318
