@@ -1,0 +1,2 @@
+name,url,xpath,ref
+SWEDBANK ROBUR ACCESS EDGE GLOBAL,https://www.swedbank.lt/private/investor/funds/allFunds/list/details?tunnusnr=SWRAGLC,//*[@id="mainForm"]/section/ui-field[4]/text(),99144764
